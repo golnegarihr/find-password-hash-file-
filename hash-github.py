@@ -38,3 +38,4 @@ for i in range(len(hashcode)):
         b = dicthash[j]
         if a == b:
             print(name[j], ' your password is :', j)
+             
